@@ -1,0 +1,1 @@
+change your url for mongodb in server.js file in backend folder. replace it with your profile's url, only then run! else it wont work!
